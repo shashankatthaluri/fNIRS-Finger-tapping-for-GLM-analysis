@@ -1,5 +1,5 @@
-# Finger tapping fNIRS GLM Analysis 🧠📊
-Welcome to the Finger tapping experiment uding fNIRS data for GLM data Analysis repository! 🎉🔍
+# fNIRS finger tapping data for GLM Analysis 🧠📊
+Welcome to the fNIRS finger tapping experiment data for GLM Analysis repository! 🎉🔍
 
 ## Overview 📝
 This repository delves into the analysis of data from a real multichannel functional near-infrared spectroscopy (fNIRS) experiment, a non-invasive neuroimaging technique. 
