@@ -21,40 +21,40 @@ In the context of neuroimaging, GLM is used to model the observed brain activity
 
 ## Steps in GLM Analysis 🔄
 
-Import raw NIRS data 📥
+**Import raw NIRS data 📥**
  - Begin by importing the raw NIRS data, which is essential for subsequent analysis steps.
 
- Clean up annotations before analysis 🧹
+ **Clean up annotations before analysis 🧹**
  - Ensure that annotations are accurate and well-prepared for precise analysis.
 
- Preprocess NIRS data 🛠️
+** Preprocess NIRS data 🛠️**
  - Prepare and preprocess the NIRS data, enhancing its quality and suitability for analysis.
 
-View experiment events 👁️
+**View experiment events 👁️*8
  - Explore the experiment events to gain insights into the temporal structure of the data.
 
-Create design matrix 📊
+**Create design matrix 📊**
  - Develop a design matrix, a fundamental component in GLM analysis that defines experimental conditions and their timing.
 
-Examine expected response 🧐
+**Examine expected response 🧐**
  - Analyze the expected neural response to different tapping conditions based on the experimental design.
 
-Fit GLM to subset of data and estimate response for each experimental condition 📈
+**Fit GLM to subset of data and estimate response for each experimental condition 📈**
  - Apply the GLM to a subset of data to estimate neural responses for each experimental condition.
 
-Fit GLM to all data and view topographic distribution 🗺️
+**Fit GLM to all data and view topographic distribution 🗺️**
  - Extend GLM fitting to the entire dataset and visualize the topographic distribution of neural responses.
 
-Analyze regions of interest 🔍
+**Analyze regions of interest 🔍**
  - Zoom in on regions of interest for a detailed analysis, potentially revealing specific patterns of neural activity.
 
-Compute contrasts 🔄
+**Compute contrasts 🔄**
  - Calculate contrasts to highlight significant differences in neural activity between experimental conditions.
 
-Export Results 📤
+**Export Results 📤**
  - Export the results for further examination, sharing, or integration with other analyses.
 
-Determine true and false positive rates 🎯
+**Determine true and false positive rates 🎯**
  - Evaluate the accuracy of the analysis by determining true and false positive rates, ensuring robust findings.
 
 ## Results 📊
